@@ -5,4 +5,4 @@
 :HL["/_next/static/media/f12c927eaf7b23c0-s.p.148zpjuoy5uon.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/09f62cj6b22_j.css","style"]
 :HL["/logo/logo-koyu.svg","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"konsept","param":{"type":"d","key":"kizarmis-tavuk-gunleri","siblings":["qr"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"sKXGlJFXvMLju5EtOwIzu"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"konsept","param":{"type":"d","key":"kizarmis-tavuk-gunleri","siblings":["qr"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"oMPJ7jxGLUVcCvkoZ4BB8"}
