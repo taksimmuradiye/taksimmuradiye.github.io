@@ -7,4 +7,4 @@
 :HL["/qr/ana-sayfa.svg","image"]
 :HL["/qr/kizarmis-tavuk-gunleri.svg","image"]
 :HL["/qr/giyim.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"qr","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tr8fgdlLmlFQv4Yyba_xo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"qr","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"V9676dDhLaJ6jO2DyuaHn"}

@@ -3,7 +3,7 @@
 :HL["/_next/static/media/a88409fdd7dc121c-s.p.1mvr14jy3vxq7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f12c927eaf7b23c0-s.p.148zpjuoy5uon.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/0xk007xd0usxk.css","style"]
+:HL["/_next/static/chunks/3-0_95clbgqfo.css","style"]
 :HL["/logo/logo-koyu.svg","image",{"fetchPriority":"high"}]
 :HL["/fotograflar/kizarmis-tavuk-gunleri/taksim-tavuk-burger-menu-800.webp","image",{"imageSrcSet":"/fotograflar/kizarmis-tavuk-gunleri/taksim-tavuk-burger-menu-400.webp 400w, /fotograflar/kizarmis-tavuk-gunleri/taksim-tavuk-burger-menu-800.webp 800w","imageSizes":"(min-width: 760px) 440px, 92vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"konsept","param":{"type":"d","key":"kizarmis-tavuk-gunleri","siblings":["qr"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tr8fgdlLmlFQv4Yyba_xo"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"konsept","param":{"type":"d","key":"kizarmis-tavuk-gunleri","siblings":["qr"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"V9676dDhLaJ6jO2DyuaHn"}
