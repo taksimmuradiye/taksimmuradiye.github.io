@@ -6,4 +6,5 @@
 :HL["/_next/static/chunks/3m202nej-jh5w.css","style"]
 :HL["/qr/ana-sayfa.svg","image"]
 :HL["/qr/kizarmis-tavuk-gunleri.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"qr","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"M4ryGgTt2xY0jt4szfP9F"}
+:HL["/qr/giyim.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"qr","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tr8fgdlLmlFQv4Yyba_xo"}
